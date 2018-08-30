@@ -113,11 +113,6 @@ Maybe the oldest area of forecasting. Understanding the industrial development o
 This is a fantastic defense of estimation and prediction with succinct examples of how subjective topics can be quantified. A very accessible approach to the subject.
  - [How to Measure Anything in Cybersecurity Risk](https://www.amazon.com/dp/B01J4XYM16)
 
-### Incerto (Esp: Fooled by Randomness / Black Swan)
-This series, better than any other, explains the _difficulty_ of prediction and the misunderstanding and malpractice around randomness. It discusses the "Black Swan" with an eye towards our misunderstandings of unpredictable events. The largest takeaway is the concept of being "antifragile", which I have treated as shorthand for "Don't bother predicting everything, assume it will happen categorically."
-
-An _antifragile_ look at cybersecurity for instance: spending all time and resource on prevention will guarantee poor incident response, while spending all time and resource on incident response might result in incidents...it will be better handled with better learnings and may be impressively handled and/or prosecuted.
-
 ## Scenarios
 The development of scenarios seem critical for cyber security, as they are inherently probabilistic and are part of how `risk` is generally calculated.
 
@@ -142,7 +137,22 @@ Application threat modeling literature frustratingly avoids the probabilistic an
 - [Threat Modeling: Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack-ebook/dp/B00IG71FAS/ref=mt_kindle?_encoding=UTF8&me=&qid=1535658874)
 
 ## Cognitive Error / Bias / Expert Failure
-- behavioral economics
+
+### Thinking Fast and Slow
+[Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) and [Amos Tversky](https://en.wikipedia.org/wiki/Amos_Tversky) offer the most relevant research in this area. Their works reveal observations into how fallible the human mind is in the most common of circumstances. The classification of System 1 and System 2 thinking is highly relevant to this area of critical thinking around risk.
+
+### Clinical versus Statistical Prediction
+Paul E. Meehl and Robyn Dawes [work in prediction](https://en.wikipedia.org/wiki/Paul_E._Meehl#Clinical_versus_statistical_prediction) inspired a scientific full fledged assault on the credibility of expert prediction. Comprehensive findings that mechanical statistical models beat experts at prediction.
+
+- [Statistical Prediction versus Clinical Prediction: Improving What Works](http://meehl.umn.edu/sites/g/files/pua1696/f/155dfm1993_0.pdf)
+- [Clinical versus Statistical Prediction](https://www.amazon.com/Clinical-Versus-Statistical-Prediction-Theoretical/dp/0963878492/ref=sr_1_1?ie=UTF8&qid=1535672122&sr=8-1&keywords=clinical+vs+statistical+prediction&dpID=518VnLiicsL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
+
+### Incerto (Esp: Fooled by Randomness / Black Swan)
+This series, better than any other, explains the _difficulty_ of prediction and the misunderstanding and malpractice around randomness. It discusses the "Black Swan" with an eye towards our misunderstandings of unpredictable events. The largest takeaway is the concept of being "antifragile", which I have treated as shorthand for "Don't bother predicting everything, assume it will happen categorically."
+
+An _antifragile_ look at cybersecurity for instance: spending all time and resource on prevention will guarantee poor incident response, while spending all time and resource on incident response might result in incidents...it will be better handled with better learnings and may be impressively handled and/or prosecuted.
+
+-[Incerto: Fooled by Randomness, The Black Swan, The Bed of Procrustes, Antifragile](https://www.amazon.com/Incerto-4-Book-Bundle-Randomness-Antifragile-ebook/dp/B00K5190LE)
 
 ## Intelligence Processing
 
@@ -162,7 +172,7 @@ There is research around Canada's application of modern intelligence processing 
 
 >  This study applied quantitative measures of forecasting accuracy commonly used in other areas of expert forecasting to over 1,500 strategic intelligence forecasts spanning approximately 6 y of intelligence production by a strategic assessment unit. The findings revealed a high level of discrimination and calibration skill.
 
-## Blog Posts
+## Blogging
 
 ### Twitch
 > Predicting the future is not a theoretical superpower. It is a skill you are already using to make decisions, and like any other skill it can be rapidly improved with deliberate practice.
