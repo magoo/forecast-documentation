@@ -83,8 +83,7 @@ Next, [Eliciting Probabilities from Experts in Complex Technical Problems](https
 ### IARPA
 IARPA invests in quite a bit of predictive research and publishes results often. They are also involved in forecasting tournaments.
 
-- Teams Better Than Individuals at Intelligence Analysis, Research Finds
- https://www.iarpa.gov/index.php/newsroom/iarpa-in-the-news/2015/419-teams-better-than-individuals-at-intelligence-analysis-research-finds
+- [Teams Better Than Individuals at Intelligence Analysis, Research Finds](https://www.iarpa.gov/index.php/newsroom/iarpa-in-the-news/2015/419-teams-better-than-individuals-at-intelligence-analysis-research-finds)
 
 
 ## Forecasting
@@ -92,9 +91,9 @@ IARPA invests in quite a bit of predictive research and publishes results often.
 ### Philip Tetlock's prediction research
 Tetlock's research I have been following revolves around how [experts who are untrained in prediction are worse than random](https://www.amazon.com/Expert-Political-Judgment-Good-Know/dp/0691128715). He has since isolated those who are stronger forecasters ([Superforecasters](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718)) and is identifying their qualities, especially around [how you make a better forecaster](http://journal.sjdm.org/16/16511/jdm16511.html). The [follow up use of teams](https://www.iarpa.gov/index.php/newsroom/iarpa-in-the-news/2015/439-the-good-judgment-project) is especially interesting.
 
-- https://www.sas.upenn.edu/tetlock/
-- https://www.youtube.com/watch?v=xBXDTQdmNyw
-- https://www.newyorker.com/magazine/2005/12/05/everybodys-an-expert
+- [Philip Tetlock](https://www.sas.upenn.edu/tetlock/)
+- [Philip Tetlock Lecture](https://www.youtube.com/watch?v=xBXDTQdmNyw)
+- [Writeup in New Yorker](https://www.newyorker.com/magazine/2005/12/05/everybodys-an-expert)
 
 ### Meteorology
 Maybe the oldest area of forecasting. Understanding the industrial development of meteorology is a great rubric for how a predictive industry is built over time. First, the theory. Then the infrastructure. Then the operational practice of prediction, decision making, and learning.
@@ -168,6 +167,10 @@ There is research around Canada's application of modern intelligence processing 
 
 - https://www.openphilanthropy.org/blog/efforts-improve-accuracy-our-judgments-and-forecasts
 
+### Kelly Shortridge
+
+- [The Art of Explanation: Behavioral Models of InfoSec](https://www.youtube.com/watch?v=UdZDlt2dlqM)
+- [Behavioral Models of InfoSec: Prospect Theory](https://medium.com/@kshortridge/behavioral-models-of-infosec-prospect-theory-c6bb49902768)
 
 
 ## Simulation / Tabletop / Red Team
