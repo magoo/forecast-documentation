@@ -35,6 +35,14 @@ The reference kilogram is the best example of measurement and estimation in real
 
 > What is going to change is that with this redefinition, the uncertainties of fundamental constants is either going to go to zero," he said. "Or the uncertainties of the related fundamental constants is going to be drastically reduced."
 
+International standards exist that agree that all measurement carries uncertainty. The [Joint Committee for Guides in Metrology](https://en.wikipedia.org/wiki/Joint_Committee_for_Guides_in_Metrology) represents this notion.
+
+- [Evaluation of measurement data — Guide to the expression of uncertainty in measurement](https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf)
+
+> "All measurements are subject to uncertainty."
+
+> "By international agreement, this uncertainty has a probabilistic basis and reflects incomplete knowledge of the quantity value."
+
 ### Calibration of Probabilities: The State of the Art
 Very early paper on calibrated probability assessments.
 
@@ -191,6 +199,7 @@ The use of tabletops, physical simulation, and predictive modeling off of histor
 ## Industry
 Industry examples where probabilistic risk assessment is at play:
 
+- [NASA Risk Management Handbook](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20120000033.pdf)
 - [EPA: Risk Assessment Forum White Paper: Probabilistic Risk Assessment Methods and Case Studies](https://www.epa.gov/sites/production/files/2014-12/documents/raf-pra-white-paper-final.pdf)
 - [Probabilistic Risk Assessment Procedures Guide for Offshore Applications](https://www.bsee.gov/sites/bsee.gov/files/ProbalisticRiskAssessment%20%28PRA%29/bsee_pra_procedures_guide_-_10-26-17.pdf)
 - [Nuclear Probabilistic Risk Assessment](https://www.nrc.gov/about-nrc/regulatory/risk-informed/pra.html)
