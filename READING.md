@@ -1,5 +1,5 @@
-# Probabilistic Risk Assessment Reading Material
-This selection is opinionated towards supporting the following work I am doing. Much of my learning has come from here, and the lessons help support the following goals:
+# Probabilistic Risk Assessment Reading Material 📚
+This selection of reading is opinionated towards the work I am doing. Much of my learning has come from here, and the lessons help support the following goals:
 
 1. First, adapting available tooling to measure risk despite how nuanced and fast moving the risks in cyber can be. This is mostly means forecasting for starters.
 2. Second, organizing many risks and focusing teams towards the reductions of these risks through our tried and true best practices.
@@ -200,8 +200,6 @@ higher at Midway Island than at most other places
 
 This meets my criteria that is "anti-checklist". Safety engineering is good at surfacing and eliminating unique problem areas that are localized to a victim.
 - [White Paper on Approaches to Safety Engineering](http://sunnyday.mit.edu/caib/concepts.pdf)
-
-
 
 ## Decision Science
 This is a dumping ground for the various naming conventions of engineering areas that have come to accept quantitative reasoning.
