@@ -1,5 +1,5 @@
 # Probabilistic Risk Assessment Reading Material
-This selection is opinionated towards supporting the following work I am doing, and going to use this to track my notes.
+This selection is opinionated towards supporting the following work I am doing, and going to use this to track where my notes come from.
 
 1. First, adapting available tooling to measure risk despite how nuanced and fast moving the risks in cyber can be. This is mostly means forecasting for starters.
 2. Second, organizing many risks and focusing teams towards the reductions of these risks through our tried and true best practices.
@@ -19,6 +19,21 @@ This section includes all references to, and arguments that measurements are est
 
 - [Measurement in Science](https://plato.stanford.edu/entries/measurement-science/)
 
+> "Although this may seem a paradox, all exact science is dominated by the idea of approximation." - Bertrand Russel
+
+- The "How to Measure Anything" series has a significant section in defense of estimation. However, I wish this definition of measurement was more frequently stated elsewhere.
+
+> "a quantitatively expressed reduction of uncertainty based on one or more observations"
+
+The reference kilogram is the best example of measurement and estimation in reality. The most accurate weighing machine that exists is the Kibble Balance which weighs an object with an "electric kilogram"
+
+- https://www.nist.gov/si-redefinition/kilogram-introduction
+- https://www.nist.gov/si-redefinition/kilogram-kibble-balance
+- https://www.wired.com/2013/01/keeping-kilogram-constant/
+- https://www.engadget.com/2017/10/24/why-scientists-are-redefining-the-kilogram/
+- https://en.wikipedia.org/wiki/Kibble_balance
+
+> What is going to change is that with this redefinition, the uncertainties of fundamental constants is either going to go to zero," he said. "Or the uncertainties of the related fundamental constants is going to be drastically reduced."
 
 ### Calibration of Probabilities: The State of the Art
 Very early paper on calibrated probability assessments.
@@ -193,3 +208,11 @@ This is a dumping ground for the various naming conventions of engineering areas
 - [Validated Learning](https://en.wikipedia.org/wiki/Validated_learning)
 - [Taylorism](https://en.wikipedia.org/wiki/Scientific_management)
 - [Operations Research](https://en.wikipedia.org/wiki/Operations_research)
+
+---
+
+## Looking for...
+
+- Lessons where "cost of measurement" or overmeasurement prevented an industry from succeeding.
+- Deciding what to measure.
+- More examples of industries that track incidents and failures religiously.
