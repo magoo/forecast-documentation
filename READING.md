@@ -1,5 +1,5 @@
 # Probabilistic Risk Assessment Reading Material
-This selection is opinionated towards supporting the following work I am doing, and going to use this to track where my notes come from.
+This selection is opinionated towards supporting the following work I am doing. Much of my learning has come from here, and the lessons help support the following goals:
 
 1. First, adapting available tooling to measure risk despite how nuanced and fast moving the risks in cyber can be. This is mostly means forecasting for starters.
 2. Second, organizing many risks and focusing teams towards the reductions of these risks through our tried and true best practices.
@@ -191,8 +191,17 @@ Industry examples where probabilistic risk assessment is at play:
 - [EPA: Risk Assessment Forum White Paper: Probabilistic Risk Assessment Methods and Case Studies](https://www.epa.gov/sites/production/files/2014-12/documents/raf-pra-white-paper-final.pdf)
 - [Probabilistic Risk Assessment Procedures Guide for Offshore Applications](https://www.bsee.gov/sites/bsee.gov/files/ProbalisticRiskAssessment%20%28PRA%29/bsee_pra_procedures_guide_-_10-26-17.pdf)
 - [Nuclear Probabilistic Risk Assessment](https://www.nrc.gov/about-nrc/regulatory/risk-informed/pra.html)
-MIT Woman / Birds at airport
+
+This paper has a specifically useful overview of many different industry approaches to safety.
+
+> In addition, generalized probabilities and reliability analyses may not apply to specific,
+localized areas: The probability of a bird strike causing an aircraft accident, for example, is much
+higher at Midway Island than at most other places
+
+This meets my criteria that is "anti-checklist". Safety engineering is good at surfacing and eliminating unique problem areas that are localized to a victim.
 - [White Paper on Approaches to Safety Engineering](http://sunnyday.mit.edu/caib/concepts.pdf)
+
+
 
 ## Decision Science
 This is a dumping ground for the various naming conventions of engineering areas that have come to accept quantitative reasoning.
@@ -213,6 +222,6 @@ This is a dumping ground for the various naming conventions of engineering areas
 
 ## Looking for...
 
-- Lessons where "cost of measurement" or overmeasurement prevented an industry from succeeding.
+- Lessons where "cost of measurement" or over-measurement prevented an industry from succeeding.
 - Deciding what to measure.
 - More examples of industries that track incidents and failures religiously.
