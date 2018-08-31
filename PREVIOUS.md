@@ -1,8 +1,8 @@
 # Chromium "Critical" (SEP2018)
-Scenario: Will a "Critical" Chromium exploit be discovered "in the wild" in September 2018?
-Outcome: TBD
-Score: TBD
-Discussion:
+Scenario: Will a "Critical" Chromium exploit be discovered "in the wild" in September 2018?  
+Outcome: TBD  
+Score: TBD  
+Discussion:  
 
   - This is the first forecast to have data prepared for participants.
   - My first to include some basic modeling for forecasters.
@@ -13,10 +13,10 @@ Discussion:
   - Not all participants are trained, and some are new to forecasting, which will increase noise.
 
 # Struts (CVE-2018-11776)
-Scenario: Will attacks exploiting the Apache Struts vulnerability (CVE-2018-11776) be observed by the community "in-the-wild?"
-Outcome: *Correct (34%) on Aug-27-2018*
-Score: .104
-Discussion:
+Scenario: Will attacks exploiting the Apache Struts vulnerability (CVE-2018-11776) be observed by the community "in-the-wild?"  
+Outcome: *Correct (34%) on Aug-27-2018*  
+Score: .104  
+Discussion:  
 
   - This had problems with forecasters understanding "In The Wild"? Next time it will be bolstered to included honeypot activity, and differentiate between ITW vulns and ITW exploits.
   - Disclosed Aug-22-2018, PoC around Aug-26-2018, Exploitation Aug-27-2018
