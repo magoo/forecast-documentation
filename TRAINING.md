@@ -1,7 +1,7 @@
 # Forecast Training 🔭🏋️
 This will be required reading or the basis of training for certain forecasts.
 
-Research suggests that prediction improves with calibration training. It has also shown that very minor amounts of training have a big effect on a forecaster. Training is one of many methods to improve prediction skills.
+Research suggests that prediction improves with probabilitic training, practice, and certainty calibration. It has also shown that very minor amounts of training have a big effect on a forecaster. Training is one of many methods to improve prediction skills.
 
 The following draws heavily from  the "Summary and discussion of results" of [Developing expert political judgment](http://journal.sjdm.org/16/16511/jdm16511.html) and my [forecast reading material](READING.md).
 
