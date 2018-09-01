@@ -1,10 +1,14 @@
 # Chromium "Critical" (SEP2018)
 Scenario: Will a "Critical" Chromium exploit be discovered "in the wild" in September 2018?  
-Outcome: TBD (Closing October)
+Outcome: TBD (Closing October)  
 Score: TBD  
 Discussion:
 
-`Yes.` came in at `1.64%`, which suggests a future with all things being stable, a "Critical" exploit to occur once every five years given the current known universe. Forecasters were extremely positive on Chrome's security posture given its history, its current investment, and the current rate of Critical bug findings which occur around 0-4 times a month and always discovered under ideal circumstances. All forecasters felt that leaving at least minimal (`<1%`) odds for a surprise event was adequate. The more liberal forecasters went up to 5% and claimed circumstances outside of Google's control that might release a known exploit into the wild. Those were Brexit, Russia and North Korea hacking, Midterm elections. Further opposition to this claims that news media has little to do with burning 0day, as the most important stuff is generally individualized and opportunistic, unlikely to be used where attention is pointed. Small amounts of uncertainty came from the possibility that exploits have been in the wild and not reported on, or under gag order, but this is compared with how newsworthy it would be making it unlikely to be secret for long.
+`Yes.` came in at `1.64%`, which suggests a future with all things being stable, a "Critical" exploit to occur once every five years given the current known universe. Forecasters were extremely positive on Chrome's security posture given its history, its current investment, and the current rate of Critical bug findings which occur around 0-4 times a month and always discovered under ideal circumstances.
+
+All forecasters felt that leaving at least minimal (`<1%`) odds for a surprise event was adequate. The more liberal forecasters went up to 5% and claimed circumstances outside of Google's control that might release a known exploit into the wild. Those were Brexit, Russia and North Korea hacking, Midterm elections. Further opposition to this claims that news media has little to do with burning 0day, as the most important stuff is generally individualized and opportunistic, unlikely to be used where attention is pointed.
+
+Small amounts of uncertainty came from the possibility that exploits have been in the wild and not reported on, or under gag order, but this is compared with how newsworthy it would be making it unlikely to be secret for long.
 
 There was strong debate about whether events or potential "exploit hoarding" mattered or even takes place for Chrome. Those who forecasted higher odds were in strong agreement that if these events _were not_ taking place, they would have forecasted `<1%` odds, putting a "critical" bug rate around once every eight to thirty years if forecasts fell in that range.
 
