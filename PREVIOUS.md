@@ -20,6 +20,7 @@ There was strong debate about whether events or potential "exploit hoarding" mat
   - Without the current political climate, several forecasters would put `Yes` at 1% or lower, which could be useful for a follow up forecast?
   - Not all participants are trained, and some are new to forecasting, which will increase noise.
     - I wrote a training document as a result of this. ([TRAINING.md](TRAINING.md))
+  - Gathering data for this was a "real job" and took a day of effort for one person (me). This forecast collected submissions over a two day period. About half of the forecasters updated their positions based on discussion. Some as drastically as 10%.
 
 # Struts (CVE-2018-11776)
 Scenario: Will attacks exploiting the Apache Struts vulnerability (CVE-2018-11776) be observed by the community "in-the-wild?"  
