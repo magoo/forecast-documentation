@@ -5,8 +5,29 @@ This selection of reading is opinionated towards the work I am doing. Much of my
 2. Second, organizing many risks and focusing teams towards the reductions of these risks through our tried and true best practices.
 3. Third, making root causes and incident transparency forefront in the industry to make #1 less volatile and allow us to enter more typical reliability / safety engineering practices that reduce the load on a forecaster.
 
+## Defining Risk: Variance of its use in practice and language.
+The language of "risk" is highly flexible. Two people talking about "risk" may be speaking at each other entirely differently.
+
+- https://plato.stanford.edu/entries/risk/#DefRis
+- https://onlinelibrary.wiley.com/doi/pdf/10.1111/risa.12464
+```
+
+risk = an unwanted event which may or may not occur.
+risk = the cause of an unwanted event which may or may not occur.
+risk = the probability of an unwanted event which may or may not occur.
+risk = the statistical expectation value of an unwanted event which may or may not occur.
+risk = the fact that a decision is made under conditions of known probabilities (“decision under risk” as opposed to “decision under uncertainty”)
+
+```
+
+Other definitions are used frequently. For instance, lacking a popular mitigation (Driving with no seatbelt) or something at stake, subject to other threats (a position in a stock).
+
+
 ## Experts Estimating Things
 This section generally appeals to how experts can be queried for quantitative data. The process of doing so, industrial examples, history of.
+
+### Parimutuel betting ([link](https://en.wikipedia.org/wiki/Parimutuel_betting))
+This describes the practice of gathering up forecast material and, typically, averaging it together. Further described in [Probabilistic Forecasts and Reproducing Scoring Systems](https://www.rand.org/pubs/research_memoranda/RM6299.html)
 
 ### Shigeru Myamoto's hobby of estimation
 This is a humorous and extremely useful example of "being good at estimation". The creator of Super Mario regularly guesses the size and weight of objects, and carries around a tape measure to do so. This is a fantastic lead-in into the purpose of estimation.
@@ -57,6 +78,7 @@ Very early paper on calibrated probability assessments.
 ### RAND, The Delphi Method, and Futures Methodology
 RAND has been [developing methods](https://www.rand.org/pardee/pubs/futures_method/delphi.html) for expert estimation for decades.
 
+- [Probabilistic Forecasts and Reproducing Scoring Systems](https://www.rand.org/pubs/research_memoranda/RM6299.html)
 - [On the Epistemology of the Inexact Sciences](https://www.rand.org/pubs/reports/R353.html)
 - [An Experimental Application of the Delphi Method to the Use of Experts](https://www.rand.org/pubs/research_memoranda/RM727z1.html)
 - [The Systematic Use of Expert Judgment in Operations Research](https://www.rand.org/pubs/papers/P2795.html)
