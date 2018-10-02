@@ -1,7 +1,11 @@
-# Chromium "Critical" (SEP2018)
+# Previous Forecasts
+Total: 3  
+Average: 0.0417818675  
+
+## Chromium "Critical" (SEP2018)
 Scenario: Will a "Critical" Chromium exploit be discovered "in the wild" in September 2018?  
-Outcome: TBD (Closing October)  
-Score: TBD  
+Outcome: *Correct (98.36%) on Oct-02-2018*
+Score: `0.0002706024999999994`
 Discussion:
 
 `Yes.` came in at `1.64%`, which suggests a future with all things being stable, a "Critical" exploit to occur once every five years given the current known universe. Forecasters were extremely positive on Chrome's security posture given its history, its current investment, and the current rate of Critical bug findings which occur around 0-4 times a month and always discovered under ideal circumstances.
@@ -22,10 +26,10 @@ There was strong debate about whether events or potential "exploit hoarding" mat
     - I wrote a training document as a result of this. ([TRAINING.md](TRAINING.md))
   - Gathering data for this was a "real job" and took a day of effort for one person (me). This forecast collected submissions over a two day period. About half of the forecasters updated their positions based on discussion. Some as drastically as 10%.
 
-# Struts (CVE-2018-11776)
+## Struts (CVE-2018-11776)
 Scenario: Will attacks exploiting the Apache Struts vulnerability (CVE-2018-11776) be observed by the community "in-the-wild?"  
 Outcome: *Correct (34%) on Aug-27-2018*  
-Score: .104  
+Score: `0.104`  
 Discussion:  
 
   - This had problems with forecasters understanding "In The Wild"? Next time it will be bolstered to included honeypot activity, and differentiate between ITW vulns and ITW exploits.
@@ -33,8 +37,8 @@ Discussion:
   - Calibration training is looking more important. Some forecasts were wild.
   - Wrote "[In The Wild](IN-THE-WILD.md)" documentation.
 
-# NetSpectre
+## NetSpectre
 Scenario: Will attacks using NetSpectre’s methods be observed by the security community “in the wild”?  
-Outcome: TBD  
-Score: TBD (0.021075)
+Outcome: No
+Score: `0.021075`
 Discussion: https://medium.com/starting-up-security/forecasting-a-headline-risk-netspectre-3c60338fd596
