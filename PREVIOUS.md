@@ -4,9 +4,9 @@
 
 ## Chromium "Critical" (SEP2018)
 Scenario: Will a "Critical" Chromium exploit be discovered "in the wild" in September 2018?  
-Outcome: *Correct (98.36%) on Oct-02-2018*
-Score: `0.0002706024999999994`
-Discussion:
+Outcome: *Correct (98.36%) on Oct-02-2018*  
+Score: `0.0002706024999999994`  
+Discussion:  
 
 `Yes.` came in at `1.64%`, which suggests a future with all things being stable, a "Critical" exploit to occur once every five years given the current known universe. Forecasters were extremely positive on Chrome's security posture given its history, its current investment, and the current rate of Critical bug findings which occur around 0-4 times a month and always discovered under ideal circumstances.
 
