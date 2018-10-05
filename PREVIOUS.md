@@ -1,8 +1,10 @@
-# Previous Forecasts
+# Previously Completed Forecasts
 *Total*: 3  
 *Average Brier Score*: 0.0417818675  
 
-## Chromium "Critical" (SEP2018)
+## Completed
+
+### Chromium "Critical" (SEP2018)
 Scenario: Will a "Critical" Chromium exploit be discovered "in the wild" in September 2018?  
 Outcome: *Correct (98.36%) on Oct-02-2018*  
 Score: `0.0002706024999999994`  
@@ -26,7 +28,7 @@ There was strong debate about whether events or potential "exploit hoarding" mat
     - I wrote a training document as a result of this. ([TRAINING.md](TRAINING.md))
   - Gathering data for this was a "real job" and took a day of effort for one person (me). This forecast collected submissions over a two day period. About half of the forecasters updated their positions based on discussion. Some as drastically as 10%.
 
-## Struts (CVE-2018-11776)
+### Struts (CVE-2018-11776)
 Scenario: Will attacks exploiting the Apache Struts vulnerability (CVE-2018-11776) be observed by the community "in-the-wild?"  
 Outcome: *Correct (34%) on Aug-27-2018*  
 Score: `0.104`  
@@ -37,8 +39,41 @@ Discussion:
   - Calibration training is looking more important. Some forecasts were wild.
   - Wrote "[In The Wild](IN-THE-WILD.md)" documentation.
 
-## NetSpectre
+### NetSpectre
 Scenario: Will attacks using NetSpectre’s methods be observed by the security community “in the wild”?  
 Outcome: No  
 Score: `0.021075`  
 Discussion: https://medium.com/starting-up-security/forecasting-a-headline-risk-netspectre-3c60338fd596
+
+## Ongoing
+
+### Fortune 500 Breach (October 2018)
+Scenario: Will a Fortune 500 company appear in the Privacy Rights Clearinghouse data breach data in October 2018?  
+Outcome: TBD (closing september 2018)  
+Score:   
+Discussion:  
+
+This is the first forecast being run on structured breach data within the Privacy Clearing House. It is hitting a wide net (The Fortune 500) over a short time (October). Eleven panelists were able to download historic data and interpret trends over the years. Options for outcome are listed below with the current panel's forecast.
+
+- No breaches. (19%)
+- One breach. (32.65%)
+- More than one breach. (48.35%)
+
+### Bloomberg "The Big Hack"
+Scenario: Will the supply chain server hardware attacks described in the Bloomberg article be confirmed by Jan 1 2020?
+Outcome:
+Score:   
+Discussion:  
+
+This is based on the [Bloomberg "The Big Hack"](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) article and designed to inform a security team about upstream hardware compromise and _actual threats_ taking place outside of speculation. 20+ panelists.
+
+- This will be confirmed. (Yes) `44.82%`
+- This will not be confirmed. (No) `55.18%`
+
+[Discussion can be found on Medium](https://medium.com/@magoo/forecasting-bloombergs-the-big-hack-16b41e0b182b).
+
+### Blank!
+Scenario:
+Outcome:
+Score:   
+Discussion:  
