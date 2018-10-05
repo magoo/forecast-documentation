@@ -39,6 +39,6 @@ Discussion:
 
 ## NetSpectre
 Scenario: Will attacks using NetSpectre’s methods be observed by the security community “in the wild”?  
-Outcome: No
-Score: `0.021075`
+Outcome: No  
+Score: `0.021075`  
 Discussion: https://medium.com/starting-up-security/forecasting-a-headline-risk-netspectre-3c60338fd596
