@@ -1,6 +1,6 @@
 # Previous Forecasts
-Total: 3  
-Average: 0.0417818675  
+*Total*: 3  
+*Average Brier Score*: 0.0417818675  
 
 ## Chromium "Critical" (SEP2018)
 Scenario: Will a "Critical" Chromium exploit be discovered "in the wild" in September 2018?  
