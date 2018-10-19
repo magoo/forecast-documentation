@@ -22,6 +22,9 @@ risk = the fact that a decision is made under conditions of known probabilities 
 
 Other definitions are used frequently. For instance, lacking a popular mitigation (Driving with no seatbelt) or something at stake, subject to other threats (a position in a stock).
 
+### Using very specific language for scenarios
+"[The clarity test](https://en.wikipedia.org/wiki/Clarity_test)" is described [here](https://web.stanford.edu/class/cee115/wiki/uploads/Main/Schedule/DAPracticeAndPromise.pdf).
+
 
 ## Experts Estimating Things
 This section generally appeals to how experts can be queried for quantitative data. The process of doing so, industrial examples, history of.
@@ -114,6 +117,15 @@ Next, [Eliciting Probabilities from Experts in Complex Technical Problems](https
 IARPA invests in quite a bit of predictive research and publishes results often. They are also involved in forecasting tournaments.
 
 - [Teams Better Than Individuals at Intelligence Analysis, Research Finds](https://www.iarpa.gov/index.php/newsroom/iarpa-in-the-news/2015/419-teams-better-than-individuals-at-intelligence-analysis-research-finds)
+
+### Cooke's Method
+Used in environmental / natural disaster forecasting (Volcanic, Earthquake, etc
+- http://rogermcooke.net/rogermcooke_files/Automatica%201988%20Cal%20Inf.pdf
+- https://academic.oup.com/reep/article/12/1/113/4835830
+- http://www.rff.org/files/sharepoint/Documents/Features/294-295%20Opinion%20-%20Aspinall%20pr.pdf
+- https://www.eeri.org/products-page/other-seminars-and-workshops/usgs-expert-elicitation-report/
+- https://earthquake.usgs.gov/contactus/menlo/seminars/848
+- https://earthquake.usgs.gov/static/lfs/nshm/workshops/GMPE2012/WED_AM01_Petersen.gmworkshop-berkeley-newsm.pdf
 
 
 ## Forecasting
