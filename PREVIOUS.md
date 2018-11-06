@@ -4,6 +4,18 @@
 
 ## Completed
 
+### Fortune 500 Breach (October 2018)
+Scenario: Will a Fortune 500 company appear in the Privacy Rights Clearinghouse data breach data in October 2018?  
+Outcome: *More than one breach (48.35%) on Nov-06-2018*
+Score: `0.44451083`
+Discussion:  
+
+This is the first forecast being run on structured breach data within the Privacy Clearing House. It is hitting a wide net (The Fortune 500) over a short time (October). Eleven panelists were able to download historic data and interpret trends over the years. Options for outcome are listed below with the current panel's forecast.
+
+- No breaches. (19%)
+- One breach. (32.65%)
+- More than one breach. (48.35%)
+
 ### Chromium "Critical" (SEP2018)
 Scenario: Will a "Critical" Chromium exploit be discovered "in the wild" in September 2018?  
 Outcome: *Correct (98.36%) on Oct-02-2018*  
@@ -46,18 +58,6 @@ Score: `0.021075`
 Discussion: https://medium.com/starting-up-security/forecasting-a-headline-risk-netspectre-3c60338fd596
 
 ## Ongoing
-
-### Fortune 500 Breach (October 2018)
-Scenario: Will a Fortune 500 company appear in the Privacy Rights Clearinghouse data breach data in October 2018?  
-Outcome: TBD (closing september 2018)  
-Score:   
-Discussion:  
-
-This is the first forecast being run on structured breach data within the Privacy Clearing House. It is hitting a wide net (The Fortune 500) over a short time (October). Eleven panelists were able to download historic data and interpret trends over the years. Options for outcome are listed below with the current panel's forecast.
-
-- No breaches. (19%)
-- One breach. (32.65%)
-- More than one breach. (48.35%)
 
 ### Bloomberg "The Big Hack"
 Scenario: Will the supply chain server hardware attacks described in the Bloomberg article be confirmed by Jan 1 2020?
