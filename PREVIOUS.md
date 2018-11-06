@@ -1,6 +1,6 @@
 # Previously Completed Forecasts
 *Total*: 3  
-*Average Brier Score*: 0.0417818675  
+*Average Brier Score*: 0.1424641081  
 
 ## Completed
 
