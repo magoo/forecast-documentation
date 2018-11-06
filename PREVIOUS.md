@@ -5,9 +5,9 @@
 ## Completed
 
 ### Fortune 500 Breach (October 2018)
-Scenario: Will a Fortune 500 company appear in the Privacy Rights Clearinghouse data breach data in October 2018?  
-Outcome: *More than one breach (48.35%) on Nov-06-2018*
-Score: `0.44451083`
+Scenario: Will a Fortune 500 company appear in the Privacy Rights Clearinghouse data breach data in October 2018?    
+Outcome: *More than one breach (48.35%) on Nov-06-2018*  
+Score: `0.44451083`  
 Discussion:  
 
 This is the first forecast being run on structured breach data within the Privacy Clearing House. It is hitting a wide net (The Fortune 500) over a short time (October). Eleven panelists were able to download historic data and interpret trends over the years. Options for outcome are listed below with the current panel's forecast.
