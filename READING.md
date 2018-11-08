@@ -32,6 +32,8 @@ This section generally appeals to how experts can be queried for quantitative da
 ### Parimutuel betting ([link](https://en.wikipedia.org/wiki/Parimutuel_betting))
 This describes the practice of gathering up forecast material and, typically, averaging it together. Further described in [Probabilistic Forecasts and Reproducing Scoring Systems](https://www.rand.org/pubs/research_memoranda/RM6299.html)
 
+
+
 ### Shigeru Myamoto's hobby of estimation
 This is a humorous and extremely useful example of "being good at estimation". The creator of Super Mario regularly guesses the size and weight of objects, and carries around a tape measure to do so. This is a fantastic lead-in into the purpose of estimation.
 
@@ -127,6 +129,12 @@ Used in environmental / natural disaster forecasting (Volcanic, Earthquake, etc
 - https://earthquake.usgs.gov/contactus/menlo/seminars/848
 - https://earthquake.usgs.gov/static/lfs/nshm/workshops/GMPE2012/WED_AM01_Petersen.gmworkshop-berkeley-newsm.pdf
 
+### Critique of Cooke's Method
+```
+We argue—against the commonly advocated“classical method”—that no significant benefits are likely to accrue from unequal weightingin mathematical aggregation. Our argument hinges on the difficulty of constructing reliableand valid measures of substantive expertise upon which to base weights.
+```
+
+- https://www.onlinelibrary.wiley.com/doi/epdf/10.1111/risa.12272
 
 ## Forecasting
 
