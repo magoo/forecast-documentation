@@ -63,13 +63,15 @@ Discussion: https://medium.com/starting-up-security/forecasting-a-headline-risk-
 Scenario: How many "malicious" advisories will NPM publish in December 2018?  
 Outcome: TBD (Min: 0 Max: 2.7777777777777777) @ 90% confidence  
 Score:   
-Discussion: Nine panelists, with a 90% confidence interval estimate, estimate between `0 and 2.7` advisories about malicious NPM packages in December. This is probably the first "confidence interval" forecast with this panel and it seemed well understood without much explanation. To help inform the forecast, NPM has several years of advisory data that can be interpreted. This forecast was inspired by the NPM package breach impacting the copay wallet.
+Discussion:  
+Nine panelists, with a 90% confidence interval estimate, estimate between `0 and 2.7` advisories about malicious NPM packages in December. This is probably the first "confidence interval" forecast with this panel and it seemed well understood without much explanation. To help inform the forecast, NPM has several years of advisory data that can be interpreted. This forecast was inspired by the NPM package breach impacting the copay wallet.
 
 ### Fortune 500 / GDPR
 Scenario:  A Fortune 500 company is assessed a large fine for a violation of GDPR between November 15, 2018, and April 15, 2019.  
 Outcome: TBD (Forecast Yes 47.08% / No 52.92%)
 Score:   
-Discussion: This was to measure the uncertainty of GDPR fines, since there is only reference class data to estimate with. Limitations included:
+Discussion:  
+This was to measure the uncertainty of GDPR fines, since there is only reference class data to estimate with. Limitations included:
 
 - Named target of fine must be a current member of Fortune 500 or a fully owned entity thereof
 - Fine must exceed 1/5 of the maximum allowed GDPR fine to the Fortune 500 listed company
