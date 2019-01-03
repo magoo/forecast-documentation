@@ -61,9 +61,12 @@ Discussion: https://medium.com/starting-up-security/forecasting-a-headline-risk-
 
 ### NPM Package Compromise
 Scenario: How many "malicious" advisories will NPM publish in December 2018?  
-Outcome: TBD (Min: 0 Max: 2.7777777777777777) @ 90% confidence  
-Score:   
+Outcome: 0 advisories (Min: 0 Max: 2.7777777777777777) @ 90% confidence  
+Score:  `0.01`   
 Discussion:  
+
+https://medium.com/starting-up-security/forecasting-npm-advisories-6c7894807680
+
 Nine panelists, with a 90% confidence interval estimate, estimate between `0 and 2.7` advisories about malicious NPM packages in December. This is probably the first "confidence interval" forecast with this panel and it seemed well understood without much explanation. To help inform the forecast, NPM has several years of advisory data that can be interpreted. This forecast was inspired by the NPM package breach impacting the copay wallet.
 
 ### Fortune 500 / GDPR
