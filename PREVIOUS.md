@@ -4,6 +4,16 @@
 
 ## Completed
 
+### Firefox "sec-critical" (January 2019)
+Scenario: Will a "Critical" Firefox exploit be discovered "in the wild" in January 2019?  
+Outcome: No (94.42%)  
+Score: `0.006`  
+Discussion:  
+
+This will likely be compared to the Chromium forecast. Differences include panel size and the forecasted month. Panel discussion was mostly around the recency and development of the Firefox sandbox. This also did not include the same level of interviews that the Chromium forecast did, which may have been valuable information. Standard deviation was also higher in this forecast with greater outliers. Firefox has had multiple exploitation events historically, which was not found with Chrome.
+
+Otherwise there are similarities with this forecast and the September 2018 Chrome forecast. Both have similarly defined "critical" classification, and both have long histories of bug and advisory data.
+
 ### Fortune 500 Breach (October 2018)
 Scenario: Will a Fortune 500 company appear in the Privacy Rights Clearinghouse data breach data in October 2018?    
 Outcome: *More than one breach (48.35%) on Nov-06-2018*  
