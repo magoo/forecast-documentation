@@ -1,8 +1,36 @@
 # Previously Completed Forecasts
-*Total*: 4  
-*Average Brier Score*: 0.1424641081  
+*Total*: 8  
+*Average Brier Score*: `0.1716715846`
 
 ## Completed
+
+### Enigma Firefox Panel
+Scenario: What is the likelihood that a "sec-critical" Firefox exploit will be discovered "in the wild" in February 2019?  
+Outcome: No  
+Score:  `0.06573938`
+Discussion:  [Discussion on Medium](https://medium.com/@magoo/enigma-forecasting-follow-up-b3dddf00206)
+
+### NPM Package Compromise
+Scenario: How many "malicious" advisories will NPM publish in December 2018?  
+Outcome: 0 advisories (Min: 0 Max: 2.7777777777777777) @ 90% confidence  
+Score:  `0.01`   
+Discussion:  
+
+https://medium.com/starting-up-security/forecasting-npm-advisories-6c7894807680
+
+Nine panelists, with a 90% confidence interval estimate, estimate between `0 and 2.7` advisories about malicious NPM packages in December. This is probably the first "confidence interval" forecast with this panel and it seemed well understood without much explanation. To help inform the forecast, NPM has several years of advisory data that can be interpreted. This forecast was inspired by the NPM package breach impacting the copay wallet.
+
+### Fortune 500 / GDPR
+Scenario:  A Fortune 500 company is assessed a large fine for a violation of GDPR between November 15, 2018, and April 15, 2019.  
+Outcome: TBD (Forecast Yes 47.08% / No 52.92%)  
+Score:   `0.56010528`  
+Discussion:  
+This was to measure the uncertainty of GDPR fines, since there is only reference class data to estimate with. Limitations included:  
+
+- Named target of fine must be a current member of Fortune 500 or a fully owned entity thereof
+- Fine must exceed 1/5 of the maximum allowed GDPR fine to the Fortune 500 listed company
+
+This forecast required @paulm to judge. The closest possible fine ended up being against [Google](https://www.theverge.com/2019/1/21/18191591/google-gdpr-fine-50-million-euros-data-consent-cnil), but this ended up being under the magnitude required by the judge. The panel had significant uncertainty on this forecast, introducing more error than we're used to.
 
 ### Firefox "sec-critical" (January 2019)
 Scenario: Will a "Critical" Firefox exploit be discovered "in the wild" in January 2019?  
@@ -69,26 +97,6 @@ Discussion: https://medium.com/starting-up-security/forecasting-a-headline-risk-
 
 ## Ongoing
 
-### NPM Package Compromise
-Scenario: How many "malicious" advisories will NPM publish in December 2018?  
-Outcome: 0 advisories (Min: 0 Max: 2.7777777777777777) @ 90% confidence  
-Score:  `0.01`   
-Discussion:  
-
-https://medium.com/starting-up-security/forecasting-npm-advisories-6c7894807680
-
-Nine panelists, with a 90% confidence interval estimate, estimate between `0 and 2.7` advisories about malicious NPM packages in December. This is probably the first "confidence interval" forecast with this panel and it seemed well understood without much explanation. To help inform the forecast, NPM has several years of advisory data that can be interpreted. This forecast was inspired by the NPM package breach impacting the copay wallet.
-
-### Fortune 500 / GDPR
-Scenario:  A Fortune 500 company is assessed a large fine for a violation of GDPR between November 15, 2018, and April 15, 2019.  
-Outcome: TBD (Forecast Yes 47.08% / No 52.92%)
-Score:   
-Discussion:  
-This was to measure the uncertainty of GDPR fines, since there is only reference class data to estimate with. Limitations included:
-
-- Named target of fine must be a current member of Fortune 500 or a fully owned entity thereof
-- Fine must exceed 1/5 of the maximum allowed GDPR fine to the Fortune 500 listed company
-
 ### Bloomberg "The Big Hack"
 Scenario: Will the supply chain server hardware attacks described in the Bloomberg article be confirmed by Jan 1 2020?
 Outcome:
@@ -101,6 +109,7 @@ This is based on the [Bloomberg "The Big Hack"](https://www.bloomberg.com/news/f
 - This will not be confirmed. (No) `55.18%`
 
 [Discussion can be found on Medium](https://medium.com/@magoo/forecasting-bloombergs-the-big-hack-16b41e0b182b).
+
 
 ### Blank!
 Scenario:
