@@ -18,7 +18,7 @@
 ### Chromium "Critical" (Q2 2019)
 Scenario: Will "in the wild" remote code exploitation of Chromium be disclosed in Q2 2019?  
 Outcome: No  
-Score: `0.043`
+Score: `0.043`  
 Discussion: This was structured similarly to the previous Chromium forecast (Sept2018) over a longer period of time, one quarter.
 
 ### Bluekeep
