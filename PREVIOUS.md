@@ -1,8 +1,4 @@
 # Previously Completed Forecasts
-*Total*: 8  
-*Average Brier Score*: `0.1716715846`
-
-## Completed
 
 |Short name|Score|
 | - | - |
