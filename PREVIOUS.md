@@ -4,6 +4,21 @@
 
 ## Completed
 
+|Short name|Score|
+| - | - |
+|Chrome Q2 2019|`0.043`|
+|Bluekeep|`0.706`|
+|Enigma Firefox|`0.06573938`|
+|NPM Package Compromise|`0.01`|
+|Fortune 500 / GDPR|`0.56010528`|
+|Firefox 2019|`0.006`|
+|Fortune 500 Breach (October 2018)|`0.44451083`|
+|Chromium "Critical" (SEP2018)|`0.0002706024999999994`|
+|Struts (CVE-2018-11776)|`0.104`|
+|NetSpectre|`0.021075`|
+|*Average*|`*0.1960701093*`|
+
+
 ### Chromium "Critical" (Q2 2019)
 Scenario: Will "in the wild" remote code exploitation of Chromium be disclosed in Q2 2019?  
 Outcome: No  
