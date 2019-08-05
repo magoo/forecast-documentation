@@ -16,7 +16,7 @@
 |Chromium "Critical" (SEP2018)|`0.0002706024999999994`|
 |Struts (CVE-2018-11776)|`0.104`|
 |NetSpectre|`0.021075`|
-|**Average**|`0.1960701093`|
+|**Average**|**`0.1960701093`**|
 
 
 ### Chromium "Critical" (Q2 2019)
