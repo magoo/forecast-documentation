@@ -4,6 +4,18 @@
 
 ## Completed
 
+### Chromium "Critical" (Q2 2019)
+Scenario: Will "in the wild" remote code exploitation of Chromium be disclosed in Q2 2019?  
+Outcome: No  
+Score: `0.043`
+Discussion: This was structured similarly to the previous Chromium forecast (Sept2018) over a longer period of time, one quarter.
+
+### Bluekeep
+Scenario: Will exploitation of CVE-2019-0708 (Bluekeep) be observed by the security community "in the wild?"  
+Outcome: Observed on 8/1/2019 or after. Or, never. ("In August or later, if at all")  
+Score: `0.706`  
+Discussion: [Here](https://medium.com/@magoo/forecasting-bluekeep-5c25a8d5d681) and [here](https://medium.com/@magoo/revisiting-the-bluekeep-forecast-150cbbee3458)
+
 ### Enigma Firefox Panel
 Scenario: What is the likelihood that a "sec-critical" Firefox exploit will be discovered "in the wild" in February 2019?  
 Outcome: No  
