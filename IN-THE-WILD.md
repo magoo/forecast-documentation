@@ -36,4 +36,4 @@ A worm has fully autonomous discovery and exploitation (propagation) and propaga
 
 Example of full worms: [Blaster](https://en.wikipedia.org/wiki/Blaster_(computer_worm)) and [Sasser](https://en.wikipedia.org/wiki/Sasser_(computer_worm)), [Code Red](https://en.wikipedia.org/wiki/Code_Red_(computer_worm)), [Samy Worm](https://en.wikipedia.org/wiki/Samy_(computer_worm)), and [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet).
 
-Worms may be indiscriminate (or not) with target selection and this should be included in the forecast if desired. For example, the Stuxnet worm discriminated against multiple qualifiers to limit its spread (d), whereas Blaster had none.
+Worms may be indiscriminate (or not) with target selection and this should be included in a scenario if desired. For example, the Stuxnet worm discriminated against multiple qualifiers to limit its spread (d), whereas Blaster had none.
