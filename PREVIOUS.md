@@ -120,6 +120,13 @@ Discussion: https://medium.com/starting-up-security/forecasting-a-headline-risk-
 
 ## Ongoing
 
+### Log4J Worm
+Scenario: Will evidence of a worm spreading in the wild using CVE-2021-44228 (Log4Shell) for any stage of exploitation be found within 90 days?
+Outcome:  
+Score:   
+Discussion:  
+
+
 ### Bloomberg "The Big Hack"
 Scenario: Will the supply chain server hardware attacks described in the Bloomberg article be confirmed by Jan 1 2020?
 Outcome:

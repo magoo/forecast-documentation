@@ -21,3 +21,17 @@ The intent is to act as a more stable target for forecasting and is not intendin
 - This can, again, be found from a honeypot environment.
 - This does not count proof of concept malware or malware built as an example sample.
 - Single instances count. For instance, if a targeted attack uses a specific piece of malware in a controlled state, like an airgapped victim, this is still in the wild.
+
+## An in the wild *worm*.
+
+> Added 12-20-2021 and collecting feedback
+
+First, a *worm* must also be an in the wild *malware sample*.
+
+A worm has fully autonomous discovery and exploitation (propagation) and propagates autonomously from its operator (C&C). A "partial" worm only has a subset while a "full" worm is described by the whole set.
+
+1. **Autonomous Discovery**: Scanning is a classic, strict example, whereas using Google SERPs or a social platform would be a more loose interpretation. In theory, you could stop a worm by modifying the underlying platform, but this is unlikely on the internet and more likely on a application platform.
+2. **Autonomous Exploitation**: An infected system can infect other systems without external dependencies. (A central exploit server)
+3. **Autonomous from Command and Control**: Continues to propagate without access to the operator, or continues operation even when infrastructure is taken over.
+
+Example of full worms: [Blaster](https://en.wikipedia.org/wiki/Blaster_(computer_worm)) and [Sasser](https://en.wikipedia.org/wiki/Sasser_(computer_worm)), [Code Red](https://en.wikipedia.org/wiki/Code_Red_(computer_worm)), [Samy Worm](https://en.wikipedia.org/wiki/Samy_(computer_worm)).
