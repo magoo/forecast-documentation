@@ -1,3 +1,5 @@
+> This repo is deprecated. [Moved here](https://magoo.github.io/simple-risk/forecasts/in-the-wild)
+
 # Standards around "In The Wild"
 This document guides a forecaster towards judgement of a vulnerability or exploit's "in the wild" status. This term is used with many definitions and is not well standardized.
 

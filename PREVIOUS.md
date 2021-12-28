@@ -1,3 +1,5 @@
+> This repo is deprecated. [Moved here](https://magoo.github.io/simple-risk/forecasts/previous)
+
 # Previously Completed Forecasts
 
 |Short name|Score|

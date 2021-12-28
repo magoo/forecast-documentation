@@ -1,3 +1,5 @@
+> This repo is deprecated. [Moved here](https://magoo.github.io/simple-risk/docs/other/reading-material)
+
 # Probabilistic Risk Assessment Reading Material 📚
 This selection of reading is opinionated towards the work I am doing. Much of my learning has come from here, and the lessons help support the following goals:
 

@@ -1,3 +1,5 @@
+> This repo is deprecated. [Moved here](https://magoo.github.io/simple-risk/docs/estimation/strategy)
+
 # Forecast Training 🔭🏋️
 This will be required reading or the basis of training for certain forecasts.
 
