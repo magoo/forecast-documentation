@@ -1,4 +1,4 @@
-> This repo is deprecated. [Moved here](https://magoo.github.io/simple-risk/forecasts/previous)
+> This repo is deprecated. [Moved here](https://magoo.github.io/risk-measurement/forecasts/)
 
 # Previously Completed Forecasts
 
